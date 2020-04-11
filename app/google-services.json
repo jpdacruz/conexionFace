@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383803136420",
+    "firebase_url": "https://nanabanana-a2530.firebaseio.com",
+    "project_id": "nanabanana-a2530",
+    "storage_bucket": "nanabanana-a2530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383803136420:android:20c8949e49dbfaa3710931",
+        "android_client_info": {
+          "package_name": "com.jpdacruz.nanabanana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383803136420-lobmfpc29635mnjm5bq5ego51b2n8gaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jpdacruz.nanabanana",
+            "certificate_hash": "029c9f8ee768e96bd61de3f24990e0522913d293"
+          }
+        },
+        {
+          "client_id": "383803136420-c9v2302e5ujktesnllb0ueapeid9llbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnY_YHnUD40d4Oga4ln8bWS8i_CeHxIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383803136420-c9v2302e5ujktesnllb0ueapeid9llbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
